@@ -1,6 +1,4 @@
-### Soy mateo el magüetu 👋
-un tio muy finu
-y la tengo bastante promedio
+
 
 <!--
 **uo278193/uo278193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
